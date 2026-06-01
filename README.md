@@ -1,42 +1,63 @@
 # Hey, I'm Akshit Jain 👋
 
-I am the independent developer behind **Zorix**, a feature-packed multipurpose Discord bot built to make server management smooth, fun, and completely clutter-free. 
+I am the Founder and Lead Developer behind **Zorix**, a verified multipurpose Discord bot built to help communities manage, automate, and grow their servers with ease.
 
 ---
 
-## 🛠️ What is Zorix?
+## 🚀 About Zorix
 
-Instead of adding 5 different bots for 5 different jobs, I built Zorix to handle everything under one roof. It runs on a hybrid command system, meaning you can interact with it using modern **Slash Commands (`/`)** or the classic **`!` prefix**—whichever you prefer.
+**Zorix** combines powerful moderation, utility, automation, and community features into a single bot, eliminating the need for multiple bots in your server.
 
-### What it can do:
-*   **Smart Auto-Mod:** Keeps your chat clean by automatically catching spam, bad links, and toxic behavior, plus logs everything so you don't miss a thing.
-*   **Voice & Text Leveling:** Tracks how active your members are (both in chat and voice channels) and automatically rewards them with roles as they level up.
-*   **Server Utilities:** Sets up custom welcome messages for new members, announcement systems, and easy reaction roles.
-*   **Games & Fun:** Includes built-in economy commands, trivia, and text games to keep your community active and talking.
+### Features
 
----
-
-## 🔒 Why is the source code private?
-
-> **A quick note on security:**  
-> The actual code repository for Zorix is kept **Private**. I made this choice strictly to protect the bot's security tokens, database credentials, and the user data of every server using Zorix. It also stops people from just copying my entire project and re-uploading it as their own.
+* **Advanced Moderation** — Auto moderation, logging, warnings, timeouts, and server protection.
+* **Leveling System** — Chat and voice activity tracking with customizable level rewards.
+* **Utility Commands** — Useful tools for server management and member engagement.
+* **Welcome & Reaction Roles** — Custom welcome systems and self-role management.
+* **Premium Features** — Exclusive perks, no-prefix commands, and advanced functionality.
+* **Continuous Development** — Regular updates, improvements, and new features.
 
 ---
 
-## 👨‍💻 How to verify I'm the real creator?
+## 🔒 Source Code
 
-Since the code is private, you can easily verify that this is my official project through these direct ways:
-1.  **Discord Badge:** Check my personal Discord profile—you'll see the official `Application Owner` / `Developer` badge linked directly to Zorix.
-2.  **Support Server:** Join the bot's official server below, where I hold the Owner/Founder role.
+The source code of Zorix is kept **private** to protect security-sensitive information, proprietary systems, and the integrity of the project.
+
+This helps ensure:
+
+* Better security for users and servers.
+* Protection against unauthorized copies.
+* Safe management of infrastructure and services.
+
+---
+
+## 👨‍💻 About Me
+
+As the creator of Zorix, I focus on:
+
+* Discord Bot Development
+* Backend Development
+* API Integrations
+* Community Management Solutions
+* User Experience Improvements
+
+My goal is to build reliable tools that make Discord communities easier to manage and more enjoyable to use.
 
 ---
 
-## 🚀 Invite Links & Support
+## 🌐 Official Links
 
-If you want to add Zorix to your server or need any help setting it up, here are the official links:
+### Discord Bot
 
-*   **Add Bot via App Directory:** https://discord.com/discovery/applications/1501488515865641022
-*   **Join my Support Server:** https://discord.gg/SBEvG9DCjf
+https://discord.com/discovery/applications/1501488515865641022
+
+### Support Server
+
+https://discord.gg/SBEvG9DCjf
 
 ---
-<p align="center">Made with ❤️ by Akshit Jain — © 2026 Zorix Development</p>
+
+<p align="center">
+Built and maintained by <strong>Akshit Jain</strong><br>
+Founder & Lead Developer of Zorix
+</p>
