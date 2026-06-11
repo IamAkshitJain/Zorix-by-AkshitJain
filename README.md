@@ -53,7 +53,7 @@ https://discord.com/discovery/applications/1501488515865641022
 
 ### Support Server
 
-https://discord.gg/SBEvG9DCjf
+https://discord.gg/36fPWPWm6r
 
 ---
 
